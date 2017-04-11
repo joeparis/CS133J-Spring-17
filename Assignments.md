@@ -22,7 +22,7 @@ Write an external JavaScript file that uses `prompt()` to get the user's name an
 
 Write a JavaScript program that calculates how much it will cost the user to see a movie. Ask them how many adult tickets and how many children's tickets they want. Tickets cost $10.00 and $7.50 respectively. Display the total cost of all tickets to the user.
 
-Post all three parts to the lbccwebdev.net server by 5:00 p.m. on April 11
+Post all three parts to the lbccwebdev.net server by 5:00 p.m. on April 13
 
 # *Task 1*
 
