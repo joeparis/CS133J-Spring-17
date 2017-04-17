@@ -1,3 +1,12 @@
+# Assignment 2
+
+For this assignment we completed the following in class:
+
+* Create a page that displays an `alert()` upon the `DOMContentLoaded` event
+* Create a page that displays a message to the user by modifying the content of an element upon the `DOMContentLoaded` event
+* Create a page with a button that, when clicked, changes the font color of an existing element on the page
+* Create a page that will take two numbers entered via text boxes and display their product on the page when a button is clicked
+
 # Assignment 1
 
 ### Part A
