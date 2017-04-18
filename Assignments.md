@@ -1,3 +1,19 @@
+# Assignment 3
+
+After Joe stopped talking you were asked to complete the following project as a group in class:
+
+Create a page with a five checkboxes. Whenever a change is made to one of the checkboxes a list of all currently selected checkboxes should be displaying in an element on the page.
+
+1.	Wire up an event handler for the “change” event on the checkboxes
+1.	When the change event fires, loop over all the checkboxes on the page checking if their “checked” property is true
+    1. If it is, add its name to the list
+    2. If not, ignore it 
+    
+1.	Display the list of all selected checkboxes 
+
+
+Be sure that whoever posts the assignment for your group includes the names of *all* group members on the page.
+
 # Assignment 2
 
 For this assignment we completed the following in class:
