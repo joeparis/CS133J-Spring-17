@@ -11,8 +11,9 @@ Create a page with a five checkboxes. Whenever a change is made to one of the ch
     
 1.	Display the list of all selected checkboxes 
 
-
 Be sure that whoever posts the assignment for your group includes the names of *all* group members on the page.
+
+Also, I'm going to hold off one more class on the survey I promised. 
 
 # Assignment 2
 
