@@ -1,3 +1,27 @@
+# Assignment 4
+
+### Part A
+
+Write an application that will calculate the miles per gallon the user has achieved given the number of miles driven and the gallons of gas consumed as pictured below (click the image to enlarge it).
+
+[![](http://i.imgur.com/lQ5z8hpm.png)](http://i.imgur.com/lQ5z8hp.png)
+
+* The third text box should be disabled so that it is not editable by the user
+* Your JavaScript should use `strict mode` [W3Schools](https://www.w3schools.com/js/js_strict.asp) [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Strict_mode)
+* Write code to protect against bad (non-numeric) input
+* Round input and output both to one decimal place
+
+### Part B
+
+Write an application that mocks subscribing to a mailing list as pictured below (click the image to enlarge it).
+
+[![](http://i.imgur.com/lTdASklm.png)](http://i.imgur.com/lTdASkl.png)
+
+* All three inputs are required, you may valicate that they are provided using either HTML or JavaScript
+* Validate that the two email address inputs are the same and that they are at least potentially valid email addresses
+
+These assignments are to be done *individually* and are due on Tuesday, April 25.
+
 # Assignment 3
 
 After Joe stopped talking you were asked to complete the following project as a group in class:
