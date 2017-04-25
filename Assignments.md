@@ -45,7 +45,7 @@ Write an application that mocks subscribing to a mailing list as pictured below 
 * All three inputs are required, you may valicate that they are provided using either HTML or JavaScript
 * Validate that the two email address inputs are the same and that they are at least potentially valid email addresses
 
-These assignments are to be done *individually* and are due on Tuesday, April 25.
+These assignments are to be done *individually*.
 
 # Assignment 3
 
