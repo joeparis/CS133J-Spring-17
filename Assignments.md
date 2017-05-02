@@ -1,3 +1,15 @@
+# Assignment 6
+
+### Part A
+
+PIG is a simple dice game. One possible layout is shown below (click to enlarge). When the game starts the element containing the current player's name and the row of buttons, labels, and input elements below it are hidden. The players enter their names and click the New Game button to start the game (which also causes the hidden elements to be displayed). From that point on the players take turns following the rules displayed on the page.
+
+[![](http://i.imgur.com/fy0Blsum.png)](http://i.imgur.com/fy0Blsu.png)
+
+When building this and all future assignments pay attention to the aesthetics of your page. While I know that none of us are web **designers** we learned many techniques in CIS195 for creating consistent and attractive pages. Use that knowledge. Line elements up. Use font color, weight, and size to signify importance. Make the page pleasant to look at. A portion of your grade for each assignment will be for creating attractive pages as well as functional ones.
+
+Due May 4.
+
 # Assignment 5
 
 ### Part A
@@ -20,6 +32,8 @@ Write a new page similar to the last one you did but this time take and sort nam
 ### Part E
 
 Add buttons to your last two pages that will display the provided values in reverse order.
+
+Due May 4
 
 # Assignment 4
 
