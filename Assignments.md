@@ -8,6 +8,8 @@ PIG is a simple dice game. One possible layout is shown below (click to enlarge)
 
 When building this and all future assignments pay attention to the aesthetics of your page. While I know that none of us are web **designers** we learned many techniques in CIS195 for creating consistent and attractive pages. Use that knowledge. Line elements up. Use font color, weight, and size to signify importance. Make the page pleasant to look at. A portion of your grade for each assignment will be for creating attractive pages as well as functional ones.
 
+This *is* a group project.
+
 Due May 4.
 
 # Assignment 5
