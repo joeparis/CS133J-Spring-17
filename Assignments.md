@@ -1,3 +1,20 @@
+# Assignment 7
+
+The following is a group assignment. One keyboard, multiple sets of eyes; i.e., don't divy up the work by each tackling a separate file and working in parallel. 
+
+### Part A
+
+Build a web app similar to the one you did for Assignment 4, Part B. Get the user’s first name, last name, and email address. All fields are required. This time, collect the user’s input and display in on the page in a table which you dynamically create. For each new user create a new table row and cells to display the data.
+
+Due May 4
+
+READ [Animating with javascript: from setInterval to requestAnimationFrame](https://hacks.mozilla.org/2011/08/animating-with-javascript-from-setinterval-to-requestanimationframe/), [Understanding JavaScript's requestAnimationFrame() method for smooth animations](http://www.javascriptkit.com/javatutors/requestanimationframe.shtml), [MDN's Canvas Tutorial](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial) for next week.
+
+Some other resources you may be interested in:
+
+[Eloquent JavaScript](http://eloquentjavascript.net/)
+[JavaScript books by Dr. Axel Rauschmayer](http://exploringjs.com/)
+
 # Assignment 6
 
 ### Part A
