@@ -33,6 +33,10 @@ Upon completion of the course you will be able to:
 * Internet access, required, available in limited fashion in various college computer labs or through your local Internet service provider (ISP).
 * Various free software applications and tools will be discussed in class, many of which will be pre-installed on the computers in the Library Computer Lab. 
 
+Other useful texts:
+  * [Eloquent JavaScript](http://eloquentjavascript.net/)
+  * [JavaScript books by Dr. Axel Rauschmayer](http://exploringjs.com/)
+
 ## Class Policies
 
 You will get the most from this class if you attend every day. Much of the material covered won’t be found in the book. A lot of your learning will involve class discussion which can only happen if you are present. 
