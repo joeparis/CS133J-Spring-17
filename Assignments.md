@@ -1,3 +1,23 @@
+# Assignment 8
+
+### Part A
+
+Create a JavaScript object that represents a <code>Square</code>. Each <code>Square</code> will have an ID, a random color, and a random width assigned to it. Write a simple program that creates an array of 10 <code>Square</code> and prints the array to the console.
+
+### Part B
+
+Extend your boxes so that they have members for storing a <code>top</code>, a <code>left</code> property. For each <code>Square</code> in your array create a <code>div</code> element on your page at the <code>left</code> and <code>right</code> coordinates stored within the object. Make sure these cordinates are lay within the dimensions of the viewport (see <code>window.innerWidth</code> and <code>window.innerHeight</code>). **NOTE:** you only need to worry about checking these bounds at the time you create the square; you needn't worry about what happens if the viewport size changes after you display the square.
+
+### Part C
+
+Animate the squares from above. Add a random <code>velocityX</code> and <code>velocityY</code> property which represents the distance the <code>Square</code> will move at each iteration of <code>requestAnimationFrame</code>.
+
+### Part D
+
+In this part of the assignment you will add some basic gamification to the page. Each <code>Square</code> object should be removed from the page (and deleted from memory) if it is clicked on as it moves across the page. Additionally, each <code>Square</code> should "bounce" off the edges of the viewport when it collides with them. Finally, clicking on the <code>body</code> of the page (any area that is **not** a <code>Square</code>) all objects on the page should stop moving and no new elements should be created. Clicking <code>body</code> again should turn all that functionality back on.
+
+Due May 18.
+
 # Assignment 7
 
 The following is a group assignment. One keyboard, multiple sets of eyes; i.e., don't divy up the work by each tackling a separate file and working in parallel. 
