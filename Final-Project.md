@@ -9,6 +9,7 @@ The end of the term is approaching and it's time to start thinking about your fi
 * Your project can include more than one html page, but you are not required to do so.
 
 You will be graded on the following:
+
 * Programming Style
 * Coding conventions
 * Naming conventions
@@ -30,8 +31,13 @@ You will be graded on the following:
 Some example final projects are:
 
 * Create a game or other application that implements drag-n-drop using JQuery.
-* Similarly, create an application that uses the HTML5 canvas element to draw objects and animate or move objects. The application should use JavaScript to manipulate the objects displayed on the <canvas> element. You could make an excellent game using collision detection or a physics demonstration using a library like [matter.js](http://brm.io/matter-js/)
+* Similarly, you could make an application or gmae using <code>canvas</code> element to draw objects and animate objects. The application should use JavaScript to manipulate the objects displayed on the <code>canvas</code> element. Your project could, for example, use a physics engine like matter.js in an interesting way.
 * Create an application that displays an html editor and adds the generated html to the page on the fly. The user should then be able to hide the editor once the page is generated.
+* There's a lot of potential in p5.js.
 * Any other application of your choosing that demonstrates the creative use of a JavaScript library or technology.
 
 These applications sound more difficult than they really are due to the incredible number of JavaScript libraries that are available to you. Do the research and play around with the libraries. You will be amazed at what you can do!
+
+We will need to discuss your project idea before you get too far down the path to make sure it is both do-able and meets the criteria above as well as the spirit of the assignment. Your project should be presented and approved no later than May 23.
+
+Due Wednesday, June 14 by 5:00 p.m.
