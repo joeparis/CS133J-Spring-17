@@ -6,7 +6,7 @@ Create a JavaScript object that represents a <code>Square</code>. Each <code>Squ
 
 ### Part B
 
-Extend your boxes so that they have members for storing a <code>top</code>, a <code>left</code> property. For each <code>Square</code> in your array create a <code>div</code> element on your page at the <code>left</code> and <code>right</code> coordinates stored within the object. Make sure these cordinates are lay within the dimensions of the viewport (see <code>window.innerWidth</code> and <code>window.innerHeight</code>). **NOTE:** you only need to worry about checking these bounds at the time you create the square; you needn't worry about what happens if the viewport size changes after you display the square.
+Extend your boxes so that they have members for storing a <code>top</code>, a <code>left</code> property. For each <code>Square</code> in your array create a <code>div</code> element on your page at the <code>top</code> and <code>left</code> coordinates stored within the object. Make sure these cordinates are lay within the dimensions of the viewport (see <code>window.innerWidth</code> and <code>window.innerHeight</code>). **NOTE:** you only need to worry about checking these bounds at the time you create the square; you needn't worry about what happens if the viewport size changes after you display the square.
 
 ### Part C
 
