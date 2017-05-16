@@ -5,8 +5,6 @@ I found this [great video](https://youtu.be/zE9iro4r918) that explains `this` in
 
 [Here's another video](https://youtu.be/oTRujqZYhrU) discussing `this` and arrow functions in ES6.
 
-https://youtu.be/DqGwxR_0d1M?list=PL0zVEGEvSaeHBZFy6Q8731rcwk0Gtuxub
-
 [funfunfunction's Object Creation in JavaScript playlist](https://www.youtube.com/playlist?list=PL0zVEGEvSaeHBZFy6Q8731rcwk0Gtuxub)
 
 [funfunfunction on `__proto__` vs `prototype`](https://www.youtube.com/watch?v=DqGwxR_0d1M&list=PL0zVEGEvSaeHBZFy6Q8731rcwk0Gtuxub&index=5)
