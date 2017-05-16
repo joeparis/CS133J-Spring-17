@@ -1,4 +1,11 @@
-#May 11, 2017
+# May 16, 2017
+I found this [great video](https://youtu.be/zE9iro4r918) that explains `this` incredibly well.
+
+[This video (starting at 9:04)](https://youtu.be/J85lRtO_yjY?t=9m4s) talks about `this` in the contect of ES6's fat arrow (`=>`) operator. The first nine minutes cover the syntax of arrow functions in a fair amount of detail. **Note:** this video is a couple of years old so the presenter makes reference to arrow functions possibly not being available in your browser. Today, the arrow operator has strong support across modern browsers (barring IE) as [caniuse.com](http://www.caniuse.com/#feat=arrow-functions) shows us. 
+
+[Here's another video](https://youtu.be/oTRujqZYhrU) discussing `this` and arrow functions in ES6.
+
+# May 11, 2017
 
 [Today's demo code](https://drive.google.com/file/d/0B1ODsqqIQg7sVFpGczNVVHJaMzQ/view?usp=sharing)
 
