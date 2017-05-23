@@ -1,6 +1,6 @@
 # Read Me
 
-Read the [MDN Canvas Tutorial] from **Basic usage** through **Advanced animations**. I suggest you work through the code samples given, we'll be talking briefly about `canvas` during class and then you will be given your bext assignment.
+Read the [MDN Canvas Tutorial](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial) from **Basic usage** through **Advanced animations**. I suggest you work through the code samples given, we'll be talking briefly about `canvas` during class and then you will be given your bext assignment.
 
 # Assignment 8
 
