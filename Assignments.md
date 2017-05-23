@@ -1,3 +1,7 @@
+# Read Me
+
+Read the [MDN Canvas Tutorial] from **Basic usage** through **Advanced animations**. I suggest you work through the code samples given, we'll be talking briefly about `canvas` during class and then you will be given your bext assignment.
+
 # Assignment 8
 
 ### Part A
