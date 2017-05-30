@@ -1,3 +1,9 @@
+# Assignment 10
+
+Create a web page with a `canvas` with elements that respond to the user's keyboard input. For this project, create a "car" (a rectangle) that drives around the canvas. The car should not be able to leave the bounds of the `canvas`. Next, add a second car and a second set of (keyboard) controls for it. Your cars should bounce off of each other upon collision. [Here is a collision detection algorithm example](https://developer.mozilla.org/en-US/docs/Games/Tutorials/2D_Breakout_game_pure_JavaScript/Collision_detection) to get you started. 
+
+Due June 6.
+
 # Assignment 9
 
 To ease into working with the `canvas` today you'll replicate part B of Assignment 8 using figures you draw on the `canvas.` Your page should generate 25 shapes, randomly selecting between rectangles, squares, circles, or another shape of your choosing drawn using `paths`. This last shape cannot be a triangle (but see the triangle example [here](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Drawing_shapes#Drawing_a_triangle) for inspiration). Each shape should have random dimensions, color, and starting location. The starting location **must** be on the canvas; i.e. the shape cannot "spawn" outside of the bounds of the `canvas`.
