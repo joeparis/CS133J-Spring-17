@@ -2,7 +2,7 @@
 
 Create a web page with a `canvas` with elements that respond to the user's keyboard input. For this project, create a "car" (a rectangle) that drives around the canvas. The car should not be able to leave the bounds of the `canvas`. Next, add a second car and a second set of (keyboard) controls for it. Your cars should bounce off of each other upon collision. [Here is a collision detection algorithm example](https://developer.mozilla.org/en-US/docs/Games/Tutorials/2D_Breakout_game_pure_JavaScript/Collision_detection) to get you started. 
 
-Due June 6.
+Due June 8.
 
 # Assignment 9
 
@@ -10,7 +10,7 @@ To ease into working with the `canvas` today you'll replicate part B of Assignme
 
 **NOTE:** these shapes do *not* correspond to DOM elements.
 
-Due May 30.
+Due June 1.
 
 # Read Me
 
